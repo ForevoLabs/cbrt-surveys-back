@@ -2,6 +2,7 @@ const express = require('express')
 const passport = require('passport')
 const LocalStrategy = require('passport-local').Strategy
 const session = require('express-session')
+const cors = require('cors')
 
 const FileStore = require('session-file-store')(session)
 const app = express()
@@ -21,6 +22,10 @@ app.use(session({
 app.use(passport.initialize())
 app.use(passport.session())
 app.use(express.json())
+app.use(cors({
+  origin: ["http://localhost:3000"],
+  credentials: true,
+}))
 
 function authenticationMiddleware (req, res, next) {
   passport.authenticate('local', function (err, user) {
