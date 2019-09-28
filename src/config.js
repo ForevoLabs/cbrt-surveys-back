@@ -7,5 +7,5 @@ module.exports.SESSIONS_PATH = 'db/sessions'
 module.exports.ADMIN = {
   id: '1',
   name: 'admin',
-  password: '467Gn%jx',
+  password: '123456$',
 }
