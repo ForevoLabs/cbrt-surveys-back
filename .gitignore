@@ -2,4 +2,6 @@
 yarn-error.log
 .idea
 
+/db/sessions/*.json
 /db/surveys.db.json
+/db/admin.json
