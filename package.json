@@ -4,7 +4,7 @@
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
-    "dev": "nodemon --ignore ./db/sessions/ src/server.js"
+    "dev": "nodemon --ignore ./db/ src/server.js"
   },
   "private": true,
   "dependencies": {
