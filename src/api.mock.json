@@ -133,7 +133,7 @@
             },
             {
               "type": "video",
-              "text": "https://www.youtube.com/watch?v=e39RDJ3PDWM"
+              "text": "http://developr.ru/static/video1.mp4"
             },
             {
               "type": "radiobuttons",
@@ -158,7 +158,7 @@
             },
             {
               "type": "image",
-              "text": "https://www.dropbox.com/s/g8eqmyl4ponbfny/bill1.png"
+              "text": "http://www.cbr.ru/Bank-notes_coins/banknotes_itm/?prx=..%2Fbank-notes_coins%2Fbanknote_coins_newdesign_2017%2FG2017%2FB200%2F200r_17_av.jpg"
             },
             {
               "type": "description",
@@ -166,7 +166,7 @@
             },
             {
               "type": "image",
-              "text": "https://www.dropbox.com/s/h0bqlb6tkhxama3/bill2.png"
+              "text": "https://www.1shilling.ru/wp-content/uploads/2018/01/kupyura-1000-rubley-1997-goda-600x264.jpg"
             },
             {
               "type": "description",
@@ -174,7 +174,7 @@
             },
             {
               "type": "image",
-              "text": "https://www.dropbox.com/s/ococnw9sp40m783/bill3.png"
+              "text": "http://www.cbr.ru/Bank-notes_coins/banknotes_itm/?prx=..%2Fbank-notes_coins%2Fbanknote_coins_newdesign_2017%2FG2017%2FB2000%2F2000r_17_rv.jpg"
             },
             {
               "type": "description",
@@ -182,7 +182,7 @@
             },
             {
               "type": "image",
-              "text": "https://www.dropbox.com/s/1rojqe6sgexsdsd/bill4.png"
+              "text": "https://upload.wikimedia.org/wikipedia/commons/b/b4/100_%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9_%D0%A1%D0%BE%D1%87%D0%B8_%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE.jpg"
             },
             {
               "type": "radiobuttons",
