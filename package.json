@@ -1,0 +1,13 @@
+{
+  "name": "cbrt-surveys-back",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
