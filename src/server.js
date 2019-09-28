@@ -69,6 +69,10 @@ app.post('/api/login', authenticationMiddleware, function (req, res) {
   res.json({ status: 'success', user: req.user.name })
 })
 
+app.get('/api/user', function (req, res) {
+  res.json({ user: req.user })
+})
+
 app.get('/api/logout', function (req, res) {
   req.logout()
   res.json({ status: 'success', description: 'Logged out' })
